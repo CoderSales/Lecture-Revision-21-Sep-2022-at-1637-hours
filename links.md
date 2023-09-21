@@ -1,5 +1,7 @@
 # Lecture-Revision-21-Sep-2022-at-1637-hours
 
+[link back to actual current README.md, from which this content was taken](README.md)
+
 ## 1. Description
 
 Concepts and leftover links from the Lecture
