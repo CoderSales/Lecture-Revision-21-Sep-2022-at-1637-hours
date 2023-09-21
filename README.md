@@ -6,6 +6,6 @@ Concepts and leftover links from the Lecture
 
 ## 2. Links in this repo
 
-[links.md](links.md)
+[links.md](links.md) <-- has old contents of README.md (extra detail, lecture notes / links)
 
 ## 3. References
