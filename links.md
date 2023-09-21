@@ -18,6 +18,14 @@ Section:
 
 ____
 
+Similar to previous link
+
+but slightly different:
+
+[CS6361 - LANGUAGE ENGINEERING AND TRANSLATION TECHNOLOGY 2023/4 SEM1 | BrightSpace](https://learn.ul.ie/d2l/le/lessons/10832/topics/454828)
+
+____
+
 ## 2.2 Resources | Standard texts | TextbookLikeDigitalSubstances | LongStandingLinks
 
 ### 2.3.1 Online IDE's
