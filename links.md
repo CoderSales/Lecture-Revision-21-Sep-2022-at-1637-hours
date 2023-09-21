@@ -8,6 +8,8 @@ Concepts and leftover links from the Lecture
 
 ## 2.1 Static Stationary Links That Are Structural
 
+### 2.1.1 Brightspace links
+
 ____
 
 [CS6361 - LANGUAGE ENGINEERING AND TRANSLATION TECHNOLOGY 2023/4 SEM1 >>>> Resources >>>> Python for Everybody Exploring Data Using Python 3](https://learn.ul.ie/d2l/le/lessons/10832/topics/435971)
@@ -16,13 +18,13 @@ Page 16 of 249
 Section:
 1.3 Understanding programming
 
+Resources / Python for Everybody Exploring Data Using Python 3
+
 ____
 
-Similar to previous link
-
-but slightly different:
-
 [CS6361 - LANGUAGE ENGINEERING AND TRANSLATION TECHNOLOGY 2023/4 SEM1 | BrightSpace](https://learn.ul.ie/d2l/le/lessons/10832/topics/454828)
+
+Week 2 / Pythonlearn-03-Conditional.pptx
 
 ____
 
