@@ -8,7 +8,7 @@ Concepts and leftover links from the Lecture
 
 [links.md](links.md) <-- has old contents of README.md (extra detail, lecture notes / links)
 
-## Add link to another Repository
+## Other Repositories
 
 [Lecture-Thurs-21-Sept-2023-at-1200h](https://github.com/CoderSales/Lecture-Thurs-21-Sept-2023-at-1200h)
 
